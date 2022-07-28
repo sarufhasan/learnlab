@@ -4,9 +4,6 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
-.btn {
-    width: 220px !important;
-}
 
 .carousel-item img {
     filter: brightness(60%);
