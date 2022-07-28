@@ -3,3 +3,15 @@
 body {
     font-family: 'Inter', sans-serif;
 }
+
+.carousel-item img {
+    filter: brightness(60%);
+}
+
+.carousel-caption {
+    margin-bottom: 10rem;
+}
+
+.carousel-caption h1 {
+    font-size: 5rem;
+}
