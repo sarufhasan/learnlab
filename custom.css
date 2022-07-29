@@ -9,10 +9,11 @@ body {
     filter: brightness(60%);
 }
 
-.carousel-caption {
-    margin-bottom: 8rem;
+.h-text {
+    margin-bottom: 6.5rem;
+
 }
 
-.carousel-caption h1 {
-    font-size: 5rem;
+.h-text h1 {
+    font-size: 4.5rem;
 }
